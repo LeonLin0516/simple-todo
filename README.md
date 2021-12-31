@@ -27,6 +27,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/gallery/iEyHPwD' title='CodePath SimpleTodo Video Walk Through' width='' alt='Video Walkthrough' />
+![Imgur Image](http://i.imgur.com/iEyHPwD.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
